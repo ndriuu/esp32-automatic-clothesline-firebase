@@ -13,9 +13,6 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-// #define WIFI_SSID "Julia Monica Berliana"
-// #define WIFI_PASSWORD "1102213167"
-
 #define WIFI_SSID "_____"
 #define WIFI_PASSWORD "_______"
 
@@ -42,7 +39,6 @@ int enable1Pin = 14;
 const int freq = 30000;
 const int pwmChannel = 0;
 const int resolution = 8;
-int dutyCycle = 200;
 
 //Define Firebase Data object
 FirebaseData fbdo;
