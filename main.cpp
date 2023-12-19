@@ -7,9 +7,8 @@
 #include <Firebase_ESP_Client.h>
 #include <time.h>
 #include <WiFi.h>
-//Provide the token generation process info.
+
 #include "addons/TokenHelper.h"
-//Provide the RTDB payload printing info and other helper functions.
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
